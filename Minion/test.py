@@ -25,4 +25,4 @@ async def on_message(message):
         await asyncio.sleep(5)
         await client.send_message(message.channel, 'Done sleeping')
 
-client.run('MjM1MTMxNTU3Njg4Mzc3MzY0.CuAmgg.DsS-MIgzSQz2zoockdZhEZniEVU')
+client.run('-- ADD KEY HERE --')
